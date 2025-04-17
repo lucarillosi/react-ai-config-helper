@@ -2,8 +2,12 @@
 
 A React component for AI-assisted field configuration in forms. This package provides a chat-like interface that can be attached to any form field to offer AI-powered assistance.
 
+Use it to help user fill complex forms or complicated configurations using Lovable-like chat experience.
+
 [![npm version](https://img.shields.io/npm/v/react-ai-config-helper.svg)](https://www.npmjs.com/package/react-ai-config-helper)
-[![License](https://img.shields.io/npm/l/react-ai-config-helper.svg)](https://github.com/yourusername/react-ai-config-helper/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/react-ai-config-helper.svg)](https://github.com/lucarillosi/react-ai-config-helper/blob/main/LICENSE)
+
+![Demo gif](imgs/demo.gif "Demo")
 
 ## Features
 
@@ -13,6 +17,20 @@ A React component for AI-assisted field configuration in forms. This package pro
 - 🎨 Customizable styling
 - 📋 One-click value application
 - 🔌 Plug in your own AI service or use mock responses
+
+## Use cases
+
+- 🧩 Form Assistance: Guide users through complex or technical fields with AI.
+
+- 🚀 Faster Onboarding: Fill multiple fields quickly via natural language.
+
+- 🛠️ Schema Editors: Edit JSON/YAML/configs without knowing the syntax.
+
+- 📄 Template Builders: Create or refine docs and templates through chat.
+
+- ⚙️ No-Code Tools: Turn config fields into AI-assisted editors.
+
+- 💻 Dev Tools: Add smart suggestions to developer-focused UIs.
 
 ## Installation
 
